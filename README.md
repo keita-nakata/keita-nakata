@@ -13,7 +13,5 @@
 ### 🎵 Recently Played on Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31ospdvjd7l2rcktlo4grofzqb3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ospdvjd7l2rcktlo4grofzqb3a&count=5&width=600&unique=true" alt="Recently Played on Spotify" />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ospdvjd7l2rcktlo4grofzqb3a&count=5&width=600&unique=true" alt="Recently Played on Spotify" />
 </div>
