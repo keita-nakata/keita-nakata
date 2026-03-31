@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Keita+Nakata+%F0%9F%91%8B;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Keita+Nakata+%F0%9F%91%8B;Software+Engineer;I love Hanshin Tigers by the way" alt="Typing SVG" />
+
+  <!-- <br/>
+
+  <img src="https://komarev.com/ghpvc/?username=keita-nakata&style=flat-square&color=6AD3F7&label=Profile+Views" alt="Profile Views" /> -->
 </div>
+
+<br/>
 
 ---
 
-<!-- GitHub Stats — if these appear broken, see note below -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keita-nakata&count_private=true&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keita-nakata&layout=compact&theme=nightowl&hide_border=true" height="180"/>
-</div>
+### 🎵 Recently Played on Spotify
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=keita-nakata&theme=nightowl&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keita-nakata&theme=onedark&no-frame=true&margin-w=15&column=7" />
+  <a href="https://open.spotify.com/user/31ospdvjd7l2rcktlo4grofzqb3a">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ospdvjd7l2rcktlo4grofzqb3a&count=5&width=600&unique=true" alt="Recently Played on Spotify" />
+  </a>
 </div>
